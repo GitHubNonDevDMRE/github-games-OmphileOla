@@ -4,6 +4,6 @@ A project based learning activity for people who are getting started with Git an
 
 You can play the game at: [/githubschool.github.io/github-games/](https://githubnondevdmre.github.io/github-games-OmphileOla/)
 
->> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
+>> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_4
 
 This fun open source game was cloned from: https://github.com/jakesgordon/javascript-tetris
